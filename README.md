@@ -1,6 +1,6 @@
 # LambdaEnc
-[![Screenshot-20220617-104658-Termux.png](https://i.postimg.cc/x8ZvR6T6/Screenshot-20220617-104658-Termux.png)](https://postimg.cc/D4q4fdGG)
-[![Screenshot-20220617-001759-Termux.png](https:/
+[![Screenshot-20220617-110642-Termux.png](https://i.postimg.cc/x1B02MqB/Screenshot-20220617-110642-Termux.png)](https://postimg.cc/87B8dFRb)
+
 
 ## install
 ```python
